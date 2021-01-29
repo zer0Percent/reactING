@@ -1,0 +1,19 @@
+{
+  "name": "reacting",
+  "version": "1.0.0",
+  "description": "Doing some stuff with React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zer0Percent/reactING.git"
+  },
+  "author": "zer0Percent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zer0Percent/reactING/issues"
+  },
+  "homepage": "https://github.com/zer0Percent/reactING#readme"
+}
