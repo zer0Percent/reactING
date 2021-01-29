@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zer0Percent/reactING/issues"
   },
-  "homepage": "https://github.com/zer0Percent/reactING#readme"
+  "homepage": "https://github.com/zer0Percent/reactING#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
 }
